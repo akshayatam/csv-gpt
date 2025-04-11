@@ -1,0 +1,7 @@
+panel 
+langchain 
+pandas 
+plotly 
+openai 
+tabulate 
+dotenv 
