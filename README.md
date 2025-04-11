@@ -21,7 +21,7 @@ A web application to query and analyze your CSV files using natural language wit
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/natural-language-csv-analyzer.git
+git clone https://github.com/akshayatam/csv-gpt.git
 cd natural-language-csv-analyzer
 
 # 2. Create a virtual environment (optional but recommended)
